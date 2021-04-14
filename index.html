@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Scalable CSS grids and CSS columns without media queries</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<p>Make the screen wider than 1330px and you'll see the difference between auto-fill and auto-fit! With auto-fit, the columns will automatically expand to take up all of the available horizontal space. </p>
+
+   auto-fill
+<div class="grid-container-cssgrid grid-container--fill">
+  <div class="grid-element">
+    1
+  </div>
+  <div class="grid-element">
+    2
+  </div>
+  <div class="grid-element">
+    3
+  </div>
+  <div class="grid-element">
+    4
+  </div>
+  <div class="grid-element">
+    5
+  </div>
+</div>
+
+<hr>
+
+auto-fit
+<div class="grid-container-cssgrid grid-container--fit">
+  <div class="grid-element">
+    1
+  </div>
+  <div class="grid-element">
+    2
+  </div>
+  <div class="grid-element">
+    3
+  </div>
+  <div class="grid-element">
+    4
+  </div>
+  <div class="grid-element">
+    5
+  </div>
+</div>
+
+<hr>
+
+<h2>CSS columns</h2>
+   <p>Notice the <strong>different</strong> order of the grid items in the columns, 1,2,3,4 etc!!</p>
+<div class="grid-container csscolumns">
+  <div class="grid-element">
+    1
+  </div>
+  <div class="grid-element">
+    2
+  </div>
+  <div class="grid-element">
+    3
+  </div>
+  <div class="grid-element">
+    4
+  </div>
+  <div class="grid-element">
+    5
+  </div>
+</div>
+
+</body>
+</html>
