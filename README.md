@@ -9,6 +9,6 @@ PDF with some tips and tricks to get noobies and students to quickly configure t
 
 ## NL - Download Nederlandse versie
 
-[VS Code Tips en Truuks!](https://github.com/davidvandenbor/VS-Code-Quick-Tips-and-Tricks-PDF/blob/master/VSCode%20HTML%20en%20CSS%20editor%20tips.pdf)
+[VS Code Tips en Truuks!](https://github.com/davidvandenbor/VS-Code-Quick-Tips-and-Tricks-PDF/blob/64e737e2490a3140c83a72efad65b90e13939c4f/PDF%20versions/VSCode%20HTML%20en%20CSS%20editor%20tips%20NL.pdf)
 
 <img src="thumbnail.png" alt="overview" style="max-width:100%;">
